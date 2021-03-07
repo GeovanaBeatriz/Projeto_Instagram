@@ -1,0 +1,167 @@
+
+        .main-ul{
+            width: 100%;
+            height: 50px;
+            position: fixed;
+            background: white;
+            border-bottom: 1px solid rgb(197, 197, 197);
+            margin-top: -10px;
+            text-align: center;
+            
+        }
+
+        li{
+            list-style: none;
+            display: inline-block;
+            height: 20px;
+        }
+
+        .instagram{
+            height: 40px;
+            width: 90px;
+            margin-right: 950px;
+            margin-top: -9px;
+           
+            
+        }
+
+        .ul2{
+            text-align: center;
+            margin-left: 15px;
+            height: 25px;
+            padding: 0px;
+            margin-top: -55px ;
+        }
+
+        .ul3{
+            float: right;
+            width: 150px;
+            height: 20px;
+            margin-top: -50px;
+            padding: 5px;
+            margin-right:160px;
+            padding-left: 25px;
+
+        }
+
+
+        #pesquisa{
+            height: 25px;
+            width: 220px;
+            text-align: center;
+            background: rgb(241, 241, 241);
+            border: 1px solid rgb(212, 212, 212);
+        }
+
+       
+
+        .img2, .img3, .img4, .img5{
+           
+            position: static;
+            height: 25px;
+            width: 25px;
+            text-align: center;
+        }
+
+        .img5{
+            border-radius: 50%;
+            border: 1px solid black;
+            padding: 2px;
+        }
+
+        .col-sm .main-img{
+            border-radius: 50%;
+            height:150px;
+            width: 150px;
+            margin-bottom: 35px;
+           margin-left: 30px;
+
+        }
+
+        .botao{
+            
+           height: 40px;
+           position: top;
+           margin-bottom: 50px;
+        }
+
+        .col-sm{
+            width: 15%;
+            display: inline-block;
+            text-align: center;
+            margin-top: 40px;
+            margin-bottom: 30px;
+            border-left: 70px solid transparent;
+            padding: 2px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+        }
+
+        .col-sm h1{
+            text-transform: lowercase;
+            font-weight: normal;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 30px;
+            color: rgb(90, 90, 90);
+        }
+
+        .col-sm h3{
+            font-size: 16px;
+            color: rgb(90, 90, 90);
+        }
+
+        .button-default{
+            background: rgb(248, 247, 247);
+            text-align: center;
+            height: 30px;
+            width: 100px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .linkados p{
+            display: inline-block;
+            margin-left: 45px;
+            text-transform: uppercase;
+            color: rgb(65, 64, 64);
+            font-size: 14px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        .photos img {
+            height: 300px;
+            width: 300px;
+            float: left;
+            margin-top: 30px;
+           margin-left: 70px;
+           text-align: center;
+    
+            
+        }
+
+        main{
+            width: 90%;
+            text-align: center;
+            margin: auto;
+        }
+
+
+
+        body{
+            background-color: rgb(248, 247, 247);
+        }
+
+        footer{
+            height: 120px;
+            width: 100%;
+            margin-top: 40px;
+            float: left;
+            font-size: 12px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: rgb(170, 169, 169);
+           text-align: center;
+        }
+
+        
